@@ -70,8 +70,11 @@ These visualizations aid in understanding data patterns and relationships betwee
 Results and Insights
 
 Correlation: Lead time shows a weak positive correlation with ADR.
-Cancellation: Canceled bookings have a slightly higher average ADR.
-Guest and Duration Trends: Larger groups tend to have a slightly higher ADR, while longer stays are associated with lower ADR.
+
+Cancellation: Canceled bookings have a slightly higher average ADR
+
+Guest and Duration Trends:
+Larger groups tend to have a slightly higher ADR, while longer stays are associated with lower ADR.
 These insights can help hotels optimize revenue management, customer segmentation, and pricing strategies.
 
 Contributing
