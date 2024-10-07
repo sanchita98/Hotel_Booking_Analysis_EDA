@@ -34,9 +34,13 @@ Libraries Used
 The project utilizes the following Python libraries:
 
 pandas: For data manipulation and handling.
+
 numpy: For numerical operations.
+
 seaborn: For generating statistical plots.
+
 matplotlib: For creating static visualizations.
+
 plotly: For interactive data visualizations.
 
 
